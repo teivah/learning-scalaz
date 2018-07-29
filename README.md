@@ -1,1 +1,2 @@
-* Monoid: identity element (zero) + associative binary operation
+* Monoid[A]: identity element (zero) + binary operation (eg. a + b)
+* Functor[A, B]: map A => B
