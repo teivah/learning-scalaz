@@ -1,0 +1,1 @@
+* Monoid: identity element (zero) + associative binary operation
